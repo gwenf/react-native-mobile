@@ -1,3 +1,3 @@
 # react-native-mobile
 
-Sample presentation demonstrating Reactive Native for mobile.
+Sample presentation demonstrating Reactive Native code rendering in GitPitch.
